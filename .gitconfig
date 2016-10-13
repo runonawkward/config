@@ -1,0 +1,10 @@
+[user]
+[push]
+	default = simple
+[alias]
+[alias]
+[alias]
+	list = show --pretty=\"format:\" --name-only
+	co = checkout
+	up = "!git fetch --all; git merge --ff-only"
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit

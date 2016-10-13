@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/williamwalter/development/marionette-nyu/modules/vmware/manifests/tools'
+let g:netrw_dirhist_2='/Users/williamwalter/development/puppet/modules/redhat/manifests'
+let g:netrw_dirhist_3='/Users/williamwalter/development/puppet/modules/yum/manifests'
+let g:netrw_dirhist_4='/Users/williamwalter/development/puppet/modules'
+let g:netrw_dirhist_5='/Users/williamwalter/development/puppet/files/nyuad'
+let g:netrw_dirhist_6='/Users/williamwalter/development/marionette-nyu/modules/profile/manifests/firewall'
+let g:netrw_dirhist_7='/Users/williamwalter/development/marionette-nyu/modules/users/manifests/virtual'
